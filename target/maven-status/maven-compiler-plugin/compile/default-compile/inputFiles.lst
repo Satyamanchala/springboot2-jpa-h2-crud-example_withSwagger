@@ -1,8 +1,0 @@
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\model\Employee.java
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\controller\EmployeeController.java
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\repository\EmployeeRepository.java
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\Application.java
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\ErrorDetails.java
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\ResourceNotFoundException.java
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\GlobalExceptionHandler.java
-E:\Jenkins_Doc\springboot2-jpa-h2-crud-example_withSwagger\src\main\java\net\guides\springboot2\springboot2jpacrudexample\SwaggerConfig.java
